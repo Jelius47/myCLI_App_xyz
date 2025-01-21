@@ -54,13 +54,14 @@ python todocli.py delete <task_position>
 ```
 
 ### Project Structure 🗂️
+```bash
 .
 ├── todocli.py            # Entry point for the CLI application
 ├── database.py        # Contains database interaction logic
 ├── models.py          # Defines the Todo class and its properties
 ├── README.md          # Documentation for the project
 └── requirements.txt   # List of Python dependencies
-
+```
 #### Example Output 📋
 ---When you display your tasks, you’ll see something like this:
 
